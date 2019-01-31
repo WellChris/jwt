@@ -1,4 +1,4 @@
-package com.sixian.jwt.framew;
+package com.sixian.jwt.framework;
 
 import com.auth0.jwt.JWT;
 import com.auth0.jwt.JWTVerifier;

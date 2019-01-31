@@ -1,4 +1,4 @@
-package com.sixian.jwt.framew;
+package com.sixian.jwt.framework;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.JwtBuilder;
