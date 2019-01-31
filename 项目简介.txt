@@ -1,0 +1,22 @@
+这是一个关于springboot整合jwt的项目
+其中包括了自定义的jwt简单配置
+
+
+下面是我第一次玩git学到的指令
+删除文件
+1.克隆远程仓库到本地库。
+例如使用ssh方法：
+git clone git@github.com:xxx/xxx.git
+2.对需要删除的文件、文件夹进行如下操作:
+git rm test.txt (删除文件)
+git rm -r test (删除文件夹)
+3.提交修改
+git commit -m "Delete some files."
+4.将修改提交到远程仓库的xxx分支:
+git push origin master
+
+新建项目 
+$ git add .
+$ git commit -m "内容"
+$ git remote add origin https://github.com/WellChris/jwt.git   （最后这个是新项目的路径，第一个项目可以为无）
+$ git push -u origin master
